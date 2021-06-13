@@ -28,6 +28,6 @@ To resolve the issue:
 GIT_TRACE=1 git push -v origin master
 ```
 - If the error is with credential manager same as below screenshot, try un-installing the credential manger `git credential-manager uninstall`
-![image](https://user-images.githubusercontent.com/85821447/121806639-4d488800-cc6e-11eb-80a6-c9dfaee276d2.png)
+- ![image](https://user-images.githubusercontent.com/85821447/121806639-4d488800-cc6e-11eb-80a6-c9dfaee276d2.png)
 - Once done, try pushing you changes again. This time you will be prompted again for username and password.
 - Enter the correct credentials and Done.
